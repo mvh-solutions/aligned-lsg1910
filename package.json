@@ -1,0 +1,25 @@
+{
+  "name": "aligned-lsg1910",
+  "version": "0.0.1",
+  "description": "Aligning LSG using Strongs numbers in PTX format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvh-solutions/aligned-lsg1910.git"
+  },
+  "author": "Mark Howe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvh-solutions/aligned-lsg1910/issues"
+  },
+  "homepage": "https://github.com/mvh-solutions/aligned-lsg1910#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "path": "^0.12.7",
+    "proskomma-utils": "^0.7.0",
+    "xmldom": "^0.6.0"
+  }
+}
