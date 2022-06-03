@@ -11,7 +11,7 @@ const dom = new DOMParser().parseFromString(
                 "source_data",
                 "alignment",
                 "ptx",
-                "mappings-001.xml"
+                "mappings-032.xml"
             )
         )
     ).toString()
@@ -21,17 +21,26 @@ const ret = [];
 const childNodes = dom.documentElement.childNodes;
 for (let i=0; i < childNodes.length; i++) {
     if (childNodes[i].nodeType !== 1) continue;
+    const mapping = childNodes[i].getAttribute('Reference');
     const sourceLink = childNodes[i].getElementsByTagName("SourceLink")[0];
-    const targetLink = childNodes[i].getElementsByTagName("TargetLink")[0].firstChild.nodeValue;
+    const targetLinkValue = childNodes[i].getElementsByTagName("TargetLink")[0].firstChild.nodeValue;
     const mappingJson = {
-        glWord: sourceLink.getAttribute("Word"),
-        strong: sourceLink.getAttribute("Strong"),
-        targetLink,
-        book: ptBookArray[parseInt(targetLink.substring(0,3)) - 1].code,
-        chapter: parseInt(targetLink.substring(3,6)),
-        verse: parseInt(targetLink.substring(6,9)),
-        segment: parseInt(targetLink.substring(9,11)),
-        word: parseInt(targetLink.substring(11,14)) / 2,
+        source: {
+            glWord: sourceLink.getAttribute("Word"),
+            strong: sourceLink.getAttribute("Strong"),
+            book: ptBookArray[parseInt(mapping.substring(0, 3)) - 1].code,
+            chapter: parseInt(mapping.substring(3, 6)),
+            verse: parseInt(mapping.substring(6, 9)),
+            segment: parseInt(mapping.substring(9, 11)),
+        },
+        target: {
+            targetLinkValue,
+            book: ptBookArray[parseInt(targetLinkValue.substring(0, 3)) - 1].code,
+            chapter: parseInt(targetLinkValue.substring(3, 6)),
+            verse: parseInt(targetLinkValue.substring(6, 9)),
+            segment: parseInt(targetLinkValue.substring(9, 11)),
+            word: parseInt(targetLinkValue.substring(11, 14)) / 2,
+        }
     };
     ret.push(mappingJson);
 }
