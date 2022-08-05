@@ -1,0 +1,9614 @@
+[
+  {
+    "source": {
+      "glWord": "Paul",
+      "strong": "G3972",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "piété",
+      "strong": "G2150",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "selon",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "qui",
+      "strong": "G3588",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "vérité",
+      "strong": "G0225",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "connaissance",
+      "strong": "G1922",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "élus",
+      "strong": "G1588",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Christ",
+      "strong": "",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "Jésus",
+      "strong": "G2424",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "apôtre",
+      "strong": "G0652",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "serviteur",
+      "strong": "G1401",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "foi",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "pour",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100100016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 1,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "sur",
+      "strong": "G1909",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "vie",
+      "strong": "G2222",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "éternelle",
+      "strong": "G0166",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "espérance",
+      "strong": "G1680",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "dès",
+      "strong": "G4253",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "anciens",
+      "strong": "G0166",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "promise",
+      "strong": "G1861",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "point",
+      "strong": "G0893",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "temps",
+      "strong": "G5550",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100200022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 2,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "manifesté",
+      "strong": "G5319",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "qui",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "ordre",
+      "strong": "G2003",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "par",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "son",
+      "strong": "G2398",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "parole",
+      "strong": "G3056",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "sa",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "m",
+      "strong": "G1473",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "confiée",
+      "strong": "G4100",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300036",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "après",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "temps",
+      "strong": "G2540",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "prédication",
+      "strong": "G2782",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100300018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 3,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "Christ",
+      "strong": "",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "paix",
+      "strong": "G1515",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "Tite",
+      "strong": "G5103",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "enfant",
+      "strong": "G5043",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "légitime",
+      "strong": "G1103",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "en",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "commune",
+      "strong": "G2839",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "foi",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "de",
+      "strong": "G0575",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Père",
+      "strong": "G3962",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400036",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "Jésus",
+      "strong": "G2424",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "grâce",
+      "strong": "G5485",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100400014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 4,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "mes",
+      "strong": "G1473",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "dans",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "en",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "ordre",
+      "strong": "G1930",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "Crète",
+      "strong": "G2914",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "anciens",
+      "strong": "G4245",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "selon",
+      "strong": "G5613",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "régler",
+      "strong": "G3007",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "instructions",
+      "strong": "G1299",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500038",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "établisses",
+      "strong": "G2525",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "ville",
+      "strong": "G4172",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100500028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 5,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "accusés",
+      "strong": "G2724",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "femme",
+      "strong": "G1135",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G2228",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "ayant",
+      "strong": "G2192",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "débauche",
+      "strong": "G0810",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "rebelles",
+      "strong": "G0506",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "une",
+      "strong": "G3391",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "mari",
+      "strong": "G0435",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "fidèles",
+      "strong": "G4103",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "enfants",
+      "strong": "G5043",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "ne",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "irréprochable",
+      "strong": "G0410",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100600008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 6,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "économe",
+      "strong": "G3623",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "arrogant",
+      "strong": "G0829",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "faut",
+      "strong": "G1163",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "évêque",
+      "strong": "G1985",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "irréprochable",
+      "strong": "G0410",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "comme",
+      "strong": "G5613",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "colère",
+      "strong": "G3711",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "vin",
+      "strong": "G3943",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "Car",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "violent",
+      "strong": "G4131",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700036",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "déshonnête",
+      "strong": "G0146",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700038",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "ne",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100700020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 7,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "hospitalier",
+      "strong": "G5382",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "modéré",
+      "strong": "G4998",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "bien",
+      "strong": "G5358",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "saint",
+      "strong": "G3741",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "juste",
+      "strong": "G1342",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "tempérant",
+      "strong": "G1468",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "mais",
+      "strong": "G0235",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100800002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 8,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "attaché",
+      "strong": "G0472",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "vraie",
+      "strong": "G4103",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "parole",
+      "strong": "G3056",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "telle",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "enseignée",
+      "strong": "G1322",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "capable",
+      "strong": "G1415",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "exhorter",
+      "strong": "G3870",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "selon",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "saine",
+      "strong": "G5198",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "doctrine",
+      "strong": "G1319",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "réfuter",
+      "strong": "G1651",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900042",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 21
+    }
+  },
+  {
+    "source": {
+      "glWord": "contradicteurs",
+      "strong": "G0483",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600100900040",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 9,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "circoncis",
+      "strong": "G4061",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "surtout",
+      "strong": "G3122",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "parmi",
+      "strong": "G1537",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "gens",
+      "strong": "G4183",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "rebelles",
+      "strong": "G0506",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "séducteurs",
+      "strong": "G5423",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "effet",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "discoureurs",
+      "strong": "G3151",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101000012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 10,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "honteux",
+      "strong": "G0150",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "entières",
+      "strong": "G3650",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "gain",
+      "strong": "G2771",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "pour",
+      "strong": "G5484",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "pas",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "auxquels",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "doit",
+      "strong": "G1163",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Ils",
+      "strong": "G3748",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "bouleversent",
+      "strong": "G0396",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "familles",
+      "strong": "G3624",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "bouche",
+      "strong": "G1993",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "faut",
+      "strong": "G1163",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "ce",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "enseignant",
+      "strong": "G1321",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101100016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 11,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "leur",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "propre",
+      "strong": "G2398",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "méchantes",
+      "strong": "G2556",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "eux",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "menteurs",
+      "strong": "G5583",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "prophète",
+      "strong": "G4396",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "Crétois",
+      "strong": "G2912",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "bêtes",
+      "strong": "G2342",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "entre",
+      "strong": "G1537",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "ventres",
+      "strong": "G1064",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "un",
+      "strong": "G5100",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "paresseux",
+      "strong": "G0692",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "toujours",
+      "strong": "G0104",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101200018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 12,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "témoignage",
+      "strong": "G3141",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "reprends",
+      "strong": "G1651",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "vrai",
+      "strong": "G0227",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "pourquoi",
+      "strong": "G1223",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300024",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "foi",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "saine",
+      "strong": "G5198",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "Ce",
+      "strong": "G3778",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "sévèrement",
+      "strong": "G0664",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101300022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 13,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "détournent",
+      "strong": "G0654",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "vérité",
+      "strong": "G0225",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "pas",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "attachent",
+      "strong": "G4337",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "judaïques",
+      "strong": "G2451",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "hommes",
+      "strong": "G0444",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "fables",
+      "strong": "G3454",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "commandements",
+      "strong": "G1785",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101400012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 14,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "souillés",
+      "strong": "G3392",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "pur",
+      "strong": "G2513",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "purs",
+      "strong": "G2513",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500008",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "rien",
+      "strong": "G3762",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "pur",
+      "strong": "G2513",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "conscience",
+      "strong": "G4893",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500040",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "Tout",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "leur",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500028",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "intelligence",
+      "strong": "G3563",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "souillées",
+      "strong": "G3392",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "mais",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "incrédules",
+      "strong": "G0571",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101500018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 15,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "renient",
+      "strong": "G0720",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600014",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonne",
+      "strong": "G0018",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600032",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "d",
+      "strong": "G4314",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600026",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600020",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "rebelles",
+      "strong": "G0545",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600022",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "incapables",
+      "strong": "G0096",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600034",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "mais",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600010",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "profession",
+      "strong": "G3670",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600004",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "abominables",
+      "strong": "G0947",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600016",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvre",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600030",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "connaître",
+      "strong": "G1492",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600006",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600002",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600101600012",
+      "book": "TIT",
+      "chapter": 1,
+      "verse": 16,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "toi",
+      "strong": "G4771",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "dis",
+      "strong": "G2980",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "conformes",
+      "strong": "G4241",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "doctrine",
+      "strong": "G1319",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "choses",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "saine",
+      "strong": "G5198",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200100014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 1,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "vieillards",
+      "strong": "G4246",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "sobres",
+      "strong": "G3524",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "charité",
+      "strong": "G0026",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "foi",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "sains",
+      "strong": "G5198",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "modérés",
+      "strong": "G4998",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "honnêtes",
+      "strong": "G4586",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "patience",
+      "strong": "G5281",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200200024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 2,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "instructions",
+      "strong": "G2567",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "sainteté",
+      "strong": "G2412",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "âgées",
+      "strong": "G4247",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "aussi",
+      "strong": "G5615",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "n",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "médisantes",
+      "strong": "G1228",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "adonnées",
+      "strong": "G1402",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300022",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "vin",
+      "strong": "G3631",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "extérieur",
+      "strong": "G2688",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "ni",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200300016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 3,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "but",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200400002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "apprendre",
+      "strong": "G4994",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200400004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "femmes",
+      "strong": "G3501",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200400008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "maris",
+      "strong": "G5362",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200400010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "enfants",
+      "strong": "G5388",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200400014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 4,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "soumises",
+      "strong": "G5293",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "retenues",
+      "strong": "G4998",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "parole",
+      "strong": "G3056",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "chastes",
+      "strong": "G0053",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonnes",
+      "strong": "G0018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "maris",
+      "strong": "G0435",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "blasphémée",
+      "strong": "G0987",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500030",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "leurs",
+      "strong": "G2398",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "domestiques",
+      "strong": "G3626",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200500006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 5,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "modérés",
+      "strong": "G4993",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200600010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "Exhorte",
+      "strong": "G3870",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200600008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "même",
+      "strong": "G5615",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200600006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "gens",
+      "strong": "G3501",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200600004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 6,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "modèle",
+      "strong": "G5179",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "toi-même",
+      "strong": "G4572",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "tous",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "égards",
+      "strong": "G4012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "montrant",
+      "strong": "G3930",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonnes",
+      "strong": "G2570",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "enseignement",
+      "strong": "G1319",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "digne",
+      "strong": "G4587",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "donnant",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200700016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 7,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "irréprochable",
+      "strong": "G0176",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "parole",
+      "strong": "G3056",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "adversaire",
+      "strong": "G1537",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "confus",
+      "strong": "G1788",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "ayant",
+      "strong": "G2192",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "mal",
+      "strong": "G5337",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "de",
+      "strong": "G4012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "saine",
+      "strong": "G5199",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "aucun",
+      "strong": "G3367",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200800018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 8,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "leurs",
+      "strong": "G2398",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "plaire",
+      "strong": "G2101",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "soumis",
+      "strong": "G5293",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "maîtres",
+      "strong": "G1203",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "en",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "point",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "contredisants",
+      "strong": "G0483",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "choses",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "serviteurs",
+      "strong": "G1401",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600200900002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 9,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "fidélité",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "ne",
+      "strong": "G3361",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "montrer",
+      "strong": "G1731",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "toujours",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "parfaite",
+      "strong": "G0018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000030",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "dérober",
+      "strong": "G3557",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "en",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000034",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "tout",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000036",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "doctrine",
+      "strong": "G1319",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000026",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "honorer",
+      "strong": "G2885",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000032",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "mais",
+      "strong": "G0235",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201000006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 10,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "Car",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "grâce",
+      "strong": "G5485",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "salut",
+      "strong": "G4992",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "hommes",
+      "strong": "G0444",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "manifestée",
+      "strong": "G2014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "tous",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201100016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 11,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2248",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "sagesse",
+      "strong": "G4996",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200022",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "dans",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200034",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "piété",
+      "strong": "G2153",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200030",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "présent",
+      "strong": "G3568",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200038",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "justice",
+      "strong": "G1346",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200026",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "enseigne",
+      "strong": "G3811",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "impiété",
+      "strong": "G0763",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "renoncer",
+      "strong": "G0720",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "mondaines",
+      "strong": "G2886",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "vivre",
+      "strong": "G2198",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200032",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "siècle",
+      "strong": "G0165",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200040",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "convoitises",
+      "strong": "G1939",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "à",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201200006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 12,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "gloire",
+      "strong": "G1391",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "attendant",
+      "strong": "G4327",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "bienheureuse",
+      "strong": "G3107",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "espérance",
+      "strong": "G1680",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "Christ",
+      "strong": "",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300032",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "manifestation",
+      "strong": "G2015",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300022",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300026",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "Jésus",
+      "strong": "G2424",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300030",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "grand",
+      "strong": "G3173",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201300020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 13,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "de",
+      "strong": "G0575",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "qui",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "pour",
+      "strong": "G5228",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400010",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "lui-même",
+      "strong": "G1438",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2248",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "toute",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "racheter",
+      "strong": "G3084",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "peuple",
+      "strong": "G2992",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400030",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "se",
+      "strong": "G1438",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400028",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "iniquité",
+      "strong": "G0458",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400022",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "appartienne",
+      "strong": "G4041",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400032",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "purifié",
+      "strong": "G2511",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400026",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "zélé",
+      "strong": "G2207",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400034",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonnes",
+      "strong": "G2570",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400036",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400038",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "donné",
+      "strong": "G1325",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201400004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 14,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "reprends",
+      "strong": "G1651",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500012",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dis",
+      "strong": "G2980",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500004",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "exhorte",
+      "strong": "G3870",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500008",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500006",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "choses",
+      "strong": "G5023",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500002",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "avec",
+      "strong": "G3326",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500014",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "pleine",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500016",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "personne",
+      "strong": "G3367",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500020",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "méprise",
+      "strong": "G4065",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500024",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "autorité",
+      "strong": "G2003",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600201500018",
+      "book": "TIT",
+      "chapter": 2,
+      "verse": 15,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvre",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonne",
+      "strong": "G0018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "toute",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "à",
+      "strong": "G4314",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "prêts",
+      "strong": "G2092",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "obéir",
+      "strong": "G3980",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "soumis",
+      "strong": "G5293",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "autorités",
+      "strong": "G1849",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "Rappelle",
+      "strong": "G5279",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "magistrats",
+      "strong": "G0746",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300100006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 1,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "hommes",
+      "strong": "G0444",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "tous",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "envers",
+      "strong": "G4314",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "pleins",
+      "strong": "G1731",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "médire",
+      "strong": "G0987",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "pacifiques",
+      "strong": "G0269",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "modérés",
+      "strong": "G1933",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "personne",
+      "strong": "G3367",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300200002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 2,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "désobéissants",
+      "strong": "G0545",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "Car",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "asservis",
+      "strong": "G1398",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "insensés",
+      "strong": "G0453",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "égarés",
+      "strong": "G4105",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "espèce",
+      "strong": "G4164",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "autrefois",
+      "strong": "G4218",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "envie",
+      "strong": "G5355",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300034",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "convoitises",
+      "strong": "G1939",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "haïssant",
+      "strong": "G3404",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300040",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "haïs",
+      "strong": "G4767",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300038",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2249",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "méchanceté",
+      "strong": "G2549",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300030",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "dans",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "vivant",
+      "strong": "G1236",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300036",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "voluptés",
+      "strong": "G2237",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "autres",
+      "strong": "G0240",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300300042",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 3,
+      "segment": 0,
+      "word": 21
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "amour",
+      "strong": "G5363",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "manifestés",
+      "strong": "G2014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Mais",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonté",
+      "strong": "G5544",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "lorsque",
+      "strong": "G3753",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300400024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 4,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2248",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "renouvellement",
+      "strong": "G0342",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500042",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 21
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500040",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "baptême",
+      "strong": "G3067",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500036",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 18
+    }
+  },
+  {
+    "source": {
+      "glWord": "miséricorde",
+      "strong": "G1656",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "sa",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "selon",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "par",
+      "strong": "G1223",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500034",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "que",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "faites",
+      "strong": "G4160",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "de",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "régénération",
+      "strong": "G3824",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500038",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 19
+    }
+  },
+  {
+    "source": {
+      "glWord": "des",
+      "strong": "G1537",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "non",
+      "strong": "G3756",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "sauvés",
+      "strong": "G4982",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500030",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2249",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "Saint",
+      "strong": "G0040",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500046",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 23
+    }
+  },
+  {
+    "source": {
+      "glWord": "justice",
+      "strong": "G1343",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "Esprit",
+      "strong": "",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500044",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 22
+    }
+  },
+  {
+    "source": {
+      "glWord": "mais",
+      "strong": "G0235",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300500020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 5,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "répandu",
+      "strong": "G1632",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "Sauveur",
+      "strong": "G4990",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "notre",
+      "strong": "G2257",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Jésus",
+      "strong": "G2424",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "par",
+      "strong": "G1223",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "abondance",
+      "strong": "G4146",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2248",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "Christ",
+      "strong": "",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "qu",
+      "strong": "G3739",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "sur",
+      "strong": "G1909",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300600006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 6,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "grâce",
+      "strong": "G5485",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "devenions",
+      "strong": "G1096",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "vie",
+      "strong": "G2222",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "justifiés",
+      "strong": "G1344",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "héritiers",
+      "strong": "G2818",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "éternelle",
+      "strong": "G0166",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "en",
+      "strong": "G2596",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "espérance",
+      "strong": "G1680",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "sa",
+      "strong": "G1565",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300700002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 7,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "choses",
+      "strong": "G4012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "appliquent",
+      "strong": "G5431",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "utile",
+      "strong": "G5624",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800044",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 22
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800042",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 21
+    }
+  },
+  {
+    "source": {
+      "glWord": "bon",
+      "strong": "G2570",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800040",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 20
+    }
+  },
+  {
+    "source": {
+      "glWord": "ce",
+      "strong": "G5023",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonnes",
+      "strong": "G2570",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "pratiquer",
+      "strong": "G4291",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "cru",
+      "strong": "G4100",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "certaine",
+      "strong": "G4103",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "afin",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "Dieu",
+      "strong": "G2316",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800034",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "parole",
+      "strong": "G3056",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "veux",
+      "strong": "G1014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "affirmes",
+      "strong": "G1226",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "hommes",
+      "strong": "G0444",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300800048",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 8,
+      "segment": 0,
+      "word": 24
+    }
+  },
+  {
+    "source": {
+      "glWord": "discussions",
+      "strong": "G2214",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "folles",
+      "strong": "G3474",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "généalogies",
+      "strong": "G1076",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "vaines",
+      "strong": "G3152",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "Mais",
+      "strong": "G1161",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "car",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "inutiles",
+      "strong": "G0512",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "disputes",
+      "strong": "G3163",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "évite",
+      "strong": "G4026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "loi",
+      "strong": "G3544",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "querelles",
+      "strong": "G2054",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600300900014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 9,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "celui",
+      "strong": "G0444",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "avertissement",
+      "strong": "G3559",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "second",
+      "strong": "G1208",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "divisions",
+      "strong": "G0141",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "premier",
+      "strong": "G3391",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "après",
+      "strong": "G3326",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "Eloigne",
+      "strong": "G3868",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301000010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 10,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "pèche",
+      "strong": "G0264",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "sachant",
+      "strong": "G1492",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "qu",
+      "strong": "G3754",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100004",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 2
+    }
+  },
+  {
+    "source": {
+      "glWord": "espèce",
+      "strong": "G5108",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "perverti",
+      "strong": "G1612",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301100012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 11,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "résolu",
+      "strong": "G2919",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "à",
+      "strong": "G1519",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "là",
+      "strong": "G1563",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "me",
+      "strong": "G3165",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "Lorsque",
+      "strong": "G3752",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "Artémas",
+      "strong": "G0734",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "ou",
+      "strong": "G2228",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "venir",
+      "strong": "G2064",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "hâte",
+      "strong": "G4704",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "hiver",
+      "strong": "G3914",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200034",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 17
+    }
+  },
+  {
+    "source": {
+      "glWord": "rejoindre",
+      "strong": "G4314",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "Nicopolis",
+      "strong": "G3533",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200026",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 13
+    }
+  },
+  {
+    "source": {
+      "glWord": "car",
+      "strong": "G1063",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200030",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "Tychique",
+      "strong": "G5190",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301200014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 12,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "sorte",
+      "strong": "G2443",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "manque",
+      "strong": "G3007",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "leur",
+      "strong": "G0846",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "rien",
+      "strong": "G3367",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "Apollos",
+      "strong": "G0625",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "loi",
+      "strong": "G3544",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "Zénas",
+      "strong": "G2211",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "voyage",
+      "strong": "G4311",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "pourvoir",
+      "strong": "G4709",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "et",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301300008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 13,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "pratiquer",
+      "strong": "G4291",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400016",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 8
+    }
+  },
+  {
+    "source": {
+      "glWord": "nôtres",
+      "strong": "G2251",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "besoins",
+      "strong": "G5532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 12
+    }
+  },
+  {
+    "source": {
+      "glWord": "œuvres",
+      "strong": "G2041",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "bonnes",
+      "strong": "G2570",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "apprennent",
+      "strong": "G3129",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "pressants",
+      "strong": "G0316",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "aussi",
+      "strong": "G2532",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400006",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 3
+    }
+  },
+  {
+    "source": {
+      "glWord": "fruits",
+      "strong": "G0175",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "pour",
+      "strong": "G1519",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301400018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 14,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "nous",
+      "strong": "G2248",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500020",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 10
+    }
+  },
+  {
+    "source": {
+      "glWord": "avec",
+      "strong": "G3326",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500030",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 15
+    }
+  },
+  {
+    "source": {
+      "glWord": "avec",
+      "strong": "G3326",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500008",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 4
+    }
+  },
+  {
+    "source": {
+      "glWord": "saluent",
+      "strong": "G0782",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500002",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 1
+    }
+  },
+  {
+    "source": {
+      "glWord": "Tous",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500012",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 6
+    }
+  },
+  {
+    "source": {
+      "glWord": "tous",
+      "strong": "G3956",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500032",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 16
+    }
+  },
+  {
+    "source": {
+      "glWord": "grâce",
+      "strong": "G5485",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500028",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 14
+    }
+  },
+  {
+    "source": {
+      "glWord": "moi",
+      "strong": "G1700",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500010",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 5
+    }
+  },
+  {
+    "source": {
+      "glWord": "dans",
+      "strong": "G1722",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500022",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 11
+    }
+  },
+  {
+    "source": {
+      "glWord": "aiment",
+      "strong": "G5368",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500018",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 9
+    }
+  },
+  {
+    "source": {
+      "glWord": "Salue",
+      "strong": "G0782",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500014",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 7
+    }
+  },
+  {
+    "source": {
+      "glWord": "foi",
+      "strong": "G4102",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0
+    },
+    "target": {
+      "targetLinkValue": "05600301500024",
+      "book": "TIT",
+      "chapter": 3,
+      "verse": 15,
+      "segment": 0,
+      "word": 12
+    }
+  }
+]
