@@ -3,16 +3,12 @@ const {ptBookArray}  = require('proskomma-utils');
 const path = require('path');
 const fse = require('fs-extra');
 
+const sourcePath = process.argv[2];
+const destPath = process.argv[3];
 const dom = new DOMParser().parseFromString(
     fse.readFileSync(
         path.resolve(
-            path.join(
-                __dirname,
-                "source_data",
-                "alignment",
-                "ptx",
-                "mappings-056.xml"
-            )
+	    path.join(sourcePath)
         )
     ).toString()
 );
@@ -44,4 +40,5 @@ for (let i=0; i < childNodes.length; i++) {
     };
     ret.push(mappingJson);
 }
-console.log(JSON.stringify(ret, null, 2));
+fse.writeJsonSync(path.resolve(destPath), ret);
+
