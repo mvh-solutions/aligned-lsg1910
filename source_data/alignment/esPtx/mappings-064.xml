@@ -1,0 +1,1969 @@
+<?xml version="1.0"?>
+<Mappings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="el" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="amado" Strong="G0027" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="quien" Strong="G3739" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Gayo" Strong="G1050" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="anciano" Strong="G4245" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="en" Strong="G1722" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="El" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="amo" Strong="G0025" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100100016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="prospera" Strong="G2137" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Amado" Strong="G0027" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="como" Strong="G2531" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="todas" Strong="G3956" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="alma" Strong="G5590" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="salud" Strong="G5198" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="en" Strong="G4012" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="prosperado" Strong="G2137" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="deseo" Strong="G2172" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100200008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="en" Strong="G1722" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="testimonio" Strong="G3140" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cómo" Strong="G2531" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="andas" Strong="G4771" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="andas" Strong="G4043" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300016</TargetLink>
+      <TargetLink>06400100300030</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hermanos" Strong="G0080" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="vinieron" Strong="G2064" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300028</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Pues" Strong="G1063" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="regocijé" Strong="G5463" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="mucho" Strong="G3029" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100300006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="el" Strong="G2443" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="gozo" Strong="G5479" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="No" Strong="G3756" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="tengo" Strong="G2192" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="este" Strong="G5130" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="andan" Strong="G4043" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hijos" Strong="G5043" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="mis" Strong="G1699" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="oír" Strong="G0191" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="en" Strong="G1722" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100400022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="los" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="servicio" Strong="G2038" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cuando" Strong="G3739" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="cuando" Strong="G1437" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500008</TargetLink>
+      <TargetLink>06400100500010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Amado" Strong="G0027" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="conduces" Strong="G4160" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="desconocidos" Strong="G3581" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="a" Strong="G1519" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hermanos" Strong="G0080" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="especialmente" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="fielmente" Strong="G4103" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100500004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="encaminarlos" Strong="G4311" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="encaminarlos" Strong="G3739" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600022</TargetLink>
+      <TargetLink>06400100600016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="testimonio" Strong="G3140" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="harás" Strong="G4160" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="iglesia" Strong="G1577" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="amor" Strong="G0026" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="bien" Strong="G2573" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="ante" Strong="G1799" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cuales" Strong="G3739" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Dios" Strong="G2316" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600028</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100600" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="digno" Strong="G0516" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100600024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="nombre" Strong="G3686" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="salieron" Strong="G1831" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="nada" Strong="G3367" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="de" Strong="G0575" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="del" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="los" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="aceptar" Strong="G2983" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="por" Strong="G5228" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100700" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Porque" Strong="G1063" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100700004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="personas" Strong="G5108" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cooperemos" Strong="G4904" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="cooperemos" Strong="G1096" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800016</TargetLink>
+      <TargetLink>06400100800018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="la" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="que" Strong="G2443" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="pues" Strong="G3767" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100800" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="debemos" Strong="G3784" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100800006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="primer" Strong="G5383" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cual" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="la" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="pero" Strong="G0235" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Diótrefes" Strong="G1361" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="iglesia" Strong="G1577" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="ellos" Strong="G0846" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="recibe" Strong="G1926" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3756" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400100900" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="escrito" Strong="G1125" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400100900002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="con" Strong="G1909" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000036</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="expulsa" Strong="G1544" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000066</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="obras" Strong="G2041" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="causa" Strong="G5124" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Por" Strong="G1223" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="quieren" Strong="G1014" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000054</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3777" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000040</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="palabras" Strong="G3056" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="2">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000058</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="las" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="recordaré" Strong="G5279" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="de" Strong="G1537" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000060</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="prohibe" Strong="G2967" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000056</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3361" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000032</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="contento" Strong="G0714" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000034</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="que" Strong="G3739" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="iglesia" Strong="G1577" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000064</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000050</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="parloteando" Strong="G5396" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hermanos" Strong="G0080" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000048</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hace" Strong="G4160" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cosas" Strong="G5125" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000038</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="la" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000052</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="fuere" Strong="G2064" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="malignas" Strong="G4190" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000030</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="los" Strong="G3588" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000046</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="recibe" Strong="G1926" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000044</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101000" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="si" Strong="G1437" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101000006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3756" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100034</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Dios" Strong="G2316" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="El" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3361" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="sino" Strong="G0235" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Amado" Strong="G0027" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="de" Strong="G1537" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="lo" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Dios" Strong="G2316" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100040</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="imites" Strong="G3401" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="visto" Strong="G3708" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100036</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="bueno" Strong="G0018" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="malo" Strong="G2556" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="lo" Strong="G3588" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="bueno" Strong="G0015" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="malo" Strong="G2554" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100032</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101100" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="el" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101100024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="sabéis" Strong="G1492" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200030</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdad" Strong="G0225" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="2">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200028</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Demetrio" Strong="G1216" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="verdadero" Strong="G0227" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200040</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="la" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="testimonio" Strong="G3140" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G1161" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200024</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="testimonio" Strong="G3140" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="testimonio" Strong="G3141" Index="2">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200036</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="que" Strong="G3754" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200032</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="también" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Todos" Strong="G5259" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="Todos" Strong="G3956" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200006</TargetLink>
+      <TargetLink>06400101200008</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101200" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="misma" Strong="G5259" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+      <SourceLink Word="misma" Strong="G0846" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101200012</TargetLink>
+      <TargetLink>06400101200014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="no" Strong="G3756" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="tenía" Strong="G2192" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="pluma" Strong="G2563" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cosas" Strong="G4183" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="quiero" Strong="G2309" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="pero" Strong="G0235" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="escribírtelas" Strong="G1125" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300026</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="con" Strong="G1223" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101300" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="escribirte" Strong="G1125" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101300006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="porque" Strong="G1161" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400004</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="espero" Strong="G1679" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="a" Strong="G4314" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cara" Strong="G4750" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="y" Strong="G2532" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="hablaremos" Strong="G2980" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cara" Strong="G4750" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101400" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="breve" Strong="G2112" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101400006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Saluda" Strong="G0782" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500014</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="saludan" Strong="G0782" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500006</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="amigos" Strong="G5384" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500012</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="paz" Strong="G1515" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500002</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="cada" Strong="G2596" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500020</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="particular" Strong="G3686" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500022</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="los" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500016</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="Los" Strong="G3588" Index="0">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500010</TargetLink>
+    </TargetLinks>
+  </Mapping>
+  <Mapping Reference="06400101500" Warning="false" Verified="false" Proposed="false" BeyondVerse="false">
+    <SourceLinks>
+      <SourceLink Word="amigos" Strong="G5384" Index="1">
+        <PrePunctuation />
+        <PostPunctuation />
+      </SourceLink>
+    </SourceLinks>
+    <TargetLinks>
+      <TargetLink>06400101500018</TargetLink>
+    </TargetLinks>
+  </Mapping>
+</Mappings>
