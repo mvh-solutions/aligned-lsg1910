@@ -1,5 +1,5 @@
 const {DOMParser} = require('xmldom');
-const {ptBookArray}  = require('proskomma-utils');
+const {ptBookArray} = require('proskomma-utils');
 const path = require('path');
 const fse = require('fs-extra');
 
@@ -8,16 +8,17 @@ const destPath = process.argv[3];
 const dom = new DOMParser().parseFromString(
     fse.readFileSync(
         path.resolve(
-	    path.join(sourcePath)
+            path.join(sourcePath)
         )
     ).toString()
 );
 
 const ret = [];
 const childNodes = dom.documentElement.childNodes;
-for (let i=0; i < childNodes.length; i++) {
+for (let i = 0; i < childNodes.length; i++) {
     if (childNodes[i].nodeType !== 1) continue;
     const mapping = childNodes[i].getAttribute('Reference');
+    const warning = childNodes[i].getAttribute('Warning');
     const sourceLink = childNodes[i].getElementsByTagName("SourceLink")[0];
     const targetLinkValue = childNodes[i].getElementsByTagName("TargetLink")[0].firstChild.nodeValue;
     const mappingJson = {
@@ -38,6 +39,8 @@ for (let i=0; i < childNodes.length; i++) {
             word: parseInt(targetLinkValue.substring(11, 14)) / 2,
         }
     };
+    mappingJson.warning = (warning === "true");
+
     ret.push(mappingJson);
 }
 fse.writeJsonSync(path.resolve(destPath), ret);
