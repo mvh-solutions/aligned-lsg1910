@@ -21,12 +21,18 @@ const transRecords = {
     'ust',
     'https://git.door43.org/unfoldingWord/en_ust/raw/branch/master',
   ],
-  ult: [
-    'unfoldingWord',
-    'eng',
-    'ult',
-    'https://git.door43.org/unfoldingWord/en_ult/raw/branch/master',
-  ],
+    ult: [
+        'unfoldingWord',
+        'eng',
+        'ult',
+        'https://git.door43.org/unfoldingWord/en_ult/raw/branch/master',
+    ],
+    lsg: [
+        'mvhs',
+        'fra',
+        'lsg',
+        'https://git.door43.org/MVHS/fr_lsg/raw/branch/master',
+    ],
 };
 
 const pk = new Proskomma();
